@@ -1,0 +1,72 @@
+body{
+    margin: 0px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.getcity{
+    background-color: hsl(0, 8%, 5%);
+    color: rgb(253, 252, 250);
+    width:150px;
+    border: none;
+    border-radius: 2px;
+    margin-top: 20px;
+    font-size: 1rem;
+    padding: 5px;
+}
+.sub{
+    margin-left: 0px;
+    border: none;
+    background-color: rgb(5, 48, 5);
+    color: beige;
+    padding: 5px;
+    cursor: pointer;
+    
+}
+
+.sub:hover{
+    background-color: rgb(33, 129, 33);
+
+}
+.cont{
+    display: flex;
+    flex-direction: column;
+    margin-top: 2px;
+    align-items: center;
+    width: 300px;
+    border: none;
+    box-shadow: 4px 4px 5px rgba(43, 25, 3, 0.925);
+    background:linear-gradient(180deg,hsl(214, 75%, 70%),hsl(76, 89%, 72%));
+    
+}
+
+.city{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 4rem;
+    font-weight: 4px;
+    margin: 0px;
+
+
+}
+.deg{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:6px ;
+    font-size: 3rem;
+    margin: 0px;
+}
+
+.hum{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2rem;
+    margin-top: 20px;
+
+}
+.ico{
+    font-size: 6rem;
+    margin: 0px;
+}
+.err{
+    font-size: 2rem;
+    font-style: italic;
+    margin:10px;
+}

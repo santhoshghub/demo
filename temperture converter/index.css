@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+#form{
+    text-align: center;
+    background-color: aliceblue;
+    border: 2px solid rgb(31, 241, 12);
+    max-width: 40%;
+    margin-left: 30%;
+}
+#tn{
+    font-size: larger;
+    margin-bottom: 3%;
+}
+#b,#a{
+    font-size: 200%;
+    margin-bottom: 2%;
+}
+#res{
+ background-color: azure;
+ border: 1px dashed red;
+ max-width: 20%;
+ display: block;
+ text-align: center;
+ margin-left: 40%;
+} 
+#but{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}

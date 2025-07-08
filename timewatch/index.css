@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    background-image: url(th.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+#top{
+    display: ;
+    justify-items: center;
+    background-color: black;
+    align-items: center;
+    height: 50%;
+
+}
+#div1{
+
+    text-align: center;
+    font-family: monospace;
+    font-size: 6rem;
+    backdrop-filter: blur(5px);
+    width:100%;
+
+}
